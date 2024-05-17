@@ -1,0 +1,6 @@
+node_modules
+.env
+dist
+index-orig.css
+index-orig.html
+index-orig.js
